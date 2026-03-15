@@ -1,3 +1,4 @@
+
 from datetime import datetime, date, timedelta
 from typing import List, Dict, Optional
 
@@ -72,3 +73,4 @@ class Scheduler:
             current_time = end_time
 
         return schedule
+        
